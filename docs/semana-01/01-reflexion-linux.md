@@ -1,4 +1,4 @@
-## Reflexión personal
+# Día 1 Cristian: Reflexión personal
 
 **¿Qué significa DevOps para mí?**  
 Una forma de trabajar de tal forma que el flujo de desarrollo
